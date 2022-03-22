@@ -1,0 +1,2 @@
+feed_id,feed_publisher_name,feed_publisher_url,feed_lang,feed_version
+ride2Go,ride2Go GmbH,http://www.ride2go.de,de,1

@@ -1,0 +1,188 @@
+route_id,trip_id,service_id,shape_id,trip_headsign,bikes_allowed
+1,1,1,1,Gemeindeverwaltungsverband Schwendi,2
+2,2,2,2,Biberach an der Riß,2
+3,3,3,3,Sonthofen,2
+4,4,4,4,Friedrichshafen,2
+5,5,5,5,Lindenberg im Allgäu,2
+6,6,6,6,Argenbühl,2
+7,7,7,7,Ravensburg,2
+8,8,8,8,Stadtbadstr./Jakobsw.,2
+9,9,9,9,Ravensburg,2
+10,10,10,10,Memmingen,2
+11,11,11,11,Weingarten,2
+12,12,12,12,Biberach an der Riß,2
+13,13,13,13,Memmingen,2
+14,14,14,14,Neu-Ulm,2
+15,15,15,15,Kempten (Allgäu),2
+16,16,16,16,Peiting,2
+17,17,17,17,Schondorf a.Ammersee (VGem),2
+18,18,18,18,Füssen,2
+19,19,19,19,Buchloe,2
+20,20,20,20,Reichling,2
+21,21,21,21,Landsberg am Lech,2
+22,22,22,22,Mindelheim,2
+23,23,23,23,Benediktbeuern,2
+24,24,24,24,Penzberg Roche Haupttor,2
+25,25,25,25,Pullach im Isartal,2
+26,26,26,26,Grassau,2
+27,27,27,27,Neubiberg,2
+28,28,28,28,Bad Feilnbach,2
+29,29,29,29,München,2
+30,30,30,30,Augsburg,2
+31,31,31,31,P+R-Parkplatz,2
+32,32,32,32,Freising,2
+33,33,33,33,P+R am Bahnhof,2
+34,34,34,34,München,2
+35,35,35,35,München,2
+36,36,36,36,Bad Tölz,2
+37,37,37,37,Fahrenzhausen,2
+38,38,38,38,Mühldorf a. Inn,2
+39,39,39,39,Aschau am Inn,2
+40,40,40,40,Mühldorf a. Inn,2
+41,41,41,41,Augsburg,2
+42,42,42,42,Augsburg,2
+43,43,43,43,Augsburg,2
+44,44,44,44,Gräfelfing,2
+45,45,45,45,Gräfelfing,2
+46,46,46,46,Ismaning,2
+47,47,47,47,München,2
+48,48,48,48,München,2
+49,49,49,49,Bhf. Fröttmaning Bus Ost,2
+50,50,50,50,Oberding,2
+51,51,51,51,München,2
+52,52,52,52,"Oberding, Markt, 85445",2
+53,53,53,53,Altötting,2
+54,54,54,54,Altötting,2
+55,55,55,55,Böblingen,2
+56,56,56,56,Sindelfingen,2
+57,57,57,57,Lehr Himmelweiler,2
+58,58,58,58,Ulm,2
+59,59,59,59,Lichtenstein,2
+60,60,60,60,Wannweil,2
+61,61,61,61,Geislingen an der Steige,2
+62,62,62,62,Kirchheim unter Teck,2
+63,63,63,63,VVG der Gemeinde Dornstadt,2
+64,64,64,64,Esslingen am Neckar,2
+65,65,65,65,Göppingen,2
+66,66,66,66,Wannweil,2
+67,67,67,67,Ulm,2
+68,68,68,68,Reutlingen,2
+69,69,69,69,Uhingen,2
+70,70,70,70,Stuttgart,2
+71,71,71,71,Gerlingen Rathaus,2
+72,72,72,72,Stuttgart,2
+73,73,73,73,Alzenau,2
+74,74,74,74,Büdingen,2
+75,75,75,75,Hasselroth,2
+76,76,76,76,Stuttgart,2
+77,77,77,77,Stuttgart,2
+78,78,78,78,Stuttgart,2
+79,79,79,79,Fellbach,2
+80,80,80,80,Verwaltungsverband Schozach-Bottwartal,2
+81,81,81,81,Heilbronn,2
+82,82,82,82,Heilbronn,2
+83,83,83,83,Stuttgart,2
+84,84,84,84,Verwaltungsverband Ilshofen-Vellberg,2
+85,85,85,85,Neckarsulm,2
+86,86,86,86,Korb Seeplatz,2
+87,87,87,87,Waiblingen,2
+88,88,88,88,Gera,2
+89,89,89,89,Lohr am Main,2
+90,90,90,90,Höchberg,2
+91,91,91,91,Höchberg,2
+92,92,92,92,Neckarsulm Marktplatz,2
+93,93,93,93,Würzburg,2
+94,94,94,94,Frankfurt am Main,2
+95,95,95,95,Bad Brückenau,2
+96,96,96,96,Zusmarshausen,2
+97,97,97,97,Zusmarshausen,2
+98,98,98,98,Langenau,2
+99,99,99,99,GVV Oberes Schlichemtal,2
+100,100,100,100,Niederstotzingen,2
+101,101,101,101,Donauwörth,2
+102,102,102,102,Monheim,2
+103,103,103,103,Donauwörth,2
+104,104,104,104,Essenbach,2
+105,105,105,105,null,2
+106,106,106,106,Ludwigsmoos,2
+107,107,107,107,Ingolstadt,2
+108,108,108,108,Ingolstadt,2
+109,109,109,109,Wackersdorf,2
+110,110,110,110,Arnstorf,2
+111,111,111,111,Landau an der Isar,2
+112,112,112,112,Marktplatz,2
+113,113,113,113,Passau,2
+114,114,114,114,Donauwörth,2
+115,115,115,115,Landau an der Isar,2
+116,116,116,116,P+R-Parkplatz,2
+117,117,117,117,Bamberg,2
+118,118,118,118,P+R-Parkplatz,2
+119,119,119,119,Ingolstadt,2
+120,120,120,120,Ingolstadt,2
+121,121,121,121,Braunschweig,2
+122,122,122,122,Ingolstadt,2
+123,123,123,123,Jena,2
+124,124,124,124,Audi-Tor 10,2
+125,125,125,125,Nürnberg,2
+126,126,126,126,Nürnberg,2
+127,127,127,127,Großräschen,2
+128,128,128,128,Ingolstadt Village,2
+129,129,129,129,Neustadt an der Donau,2
+130,130,130,130,Amberg Rathaus,2
+131,131,131,131,Deggendorf,2
+132,132,132,132,Straubing,2
+133,133,133,133,Wackersdorf,2
+134,134,134,134,Zandt,2
+135,135,135,135,Weiden in der Oberpfalz,2
+136,136,136,136,Waldsassen,2
+137,137,137,137,Weiden in der Oberpfalz,2
+138,138,138,138,Regen,2
+139,139,139,139,Roding,2
+140,140,140,140,Altershausen,2
+141,141,141,141,Erlangen,2
+142,142,142,142,Regensburg,2
+143,143,143,143,Nürnberg Ost,2
+144,144,144,144,Röthlein,2
+145,145,145,145,Kitzingen,2
+146,146,146,146,Hausen bei Würzburg,2
+147,147,147,147,Bad Kissingen,2
+148,148,148,148,Gochsheim,2
+149,149,149,149,Forchheim,2
+150,150,150,150,Ebersdorf bei Coburg,2
+151,151,151,151,P+R-Parkplatz,2
+152,152,152,152,Rödental,2
+153,153,153,153,Adelsdorf,2
+154,154,154,154,Bad Staffelstein Auwaldstraße,2
+155,155,155,155,Regensburg,2
+156,156,156,156,Bayreuth,2
+157,157,157,157,Bayreuth,2
+158,158,158,158,Vohenstrauß,2
+159,159,159,159,Ravensburg,2
+160,160,160,160,Titisee-Neustadt,2
+161,161,161,161,Lauingen (Donau),2
+162,162,162,162,München,2
+163,163,163,163,Wiesbaden,2
+164,164,164,164,Dresden,2
+165,165,165,165,Dresden,2
+166,166,166,166,Dresden,2
+167,167,167,167,Dresden,2
+168,168,168,168,Dresden,2
+169,169,169,169,Dresden,2
+170,170,170,170,Dresden,2
+171,171,171,171,Dresden,2
+172,172,172,172,Dresden,2
+173,173,173,173,Dresden,2
+174,174,174,174,Dresden,2
+175,175,175,175,Würzburg,2
+176,176,176,176,Eisenach,2
+177,177,177,177,Neckarsulm Marktplatz,2
+178,178,178,178,Neckarsulm Marktplatz,2
+179,179,179,179,Neckarsulm Marktplatz,2
+180,180,180,180,Neckarsulm Marktplatz,2
+181,181,181,181,Neckarsulm Marktplatz,2
+182,182,182,182,Neckarsulm Marktplatz,2
+183,183,183,183,Neckarsulm Marktplatz,2
+184,184,184,184,Neckarsulm Marktplatz,2
+185,185,185,185,Neckarsulm Marktplatz,2
+186,186,186,186,Neckarsulm Marktplatz,2
+187,187,187,187,Neckarsulm Marktplatz,2

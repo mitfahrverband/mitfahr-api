@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_email
+fahrgemeinschaft,Fahrgemeinschaft.de,http://www.fahrgemeinschaft.de,Europe/Berlin,de,hilfe@adac-mitfahrclub.de
